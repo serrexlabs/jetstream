@@ -1,16 +1,16 @@
 {
-    "name": "laravel/jetstream",
-    "description": "Tailwind scaffolding for the Laravel framework.",
-    "keywords": ["laravel", "tailwind", "auth"],
+    "name": "serrexlabs/jetstream",
+    "description": "Tailwind + React jetstream scaffolding for the Laravel framework.",
+    "keywords": ["laravel", "tailwind", "auth", "react"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/jetstream/issues",
-        "source": "https://github.com/laravel/jetstream"
+        "issues": "https://github.com/serrexlabs/jetstream/issues",
+        "source": "https://github.com/serrexlabs/jetstream"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Sanath Samarasinghe",
+            "email": "sanath@serrexlabs.com"
         }
     ],
     "require": {
